@@ -1,1 +1,3 @@
 stash file 2
+
+Modified in local repo
