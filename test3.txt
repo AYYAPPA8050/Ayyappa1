@@ -5,5 +5,26 @@ new3
 =======
 new2
 >>>>>>> 7732208419d575061746ec4ae20b2891dc3c4257
+<<<<<<< Updated upstream
 new 6
+<<<<<<< Updated upstream
 new 7
+=======
+=======
+
+
+new4
+>>>>>>> Stashed changes
+
+
+
+
+
+
+
+
+
+
+
+new 10
+>>>>>>> Stashed changes
